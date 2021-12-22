@@ -121,10 +121,11 @@
   height: 160px;
   margin-top: 15px;
 }
-.writeReply textarea {
-  width: 1180px;
+.writeReplyArea {
+  width: 1176.1px;
   height: 100px;
   padding: 10px;
+  border: 2px solid #3455cb;
 }
 .writeReply input {
   width: 65px;
@@ -133,6 +134,7 @@
   border: 1px solid #3a38b2;
   border-radius: 6px;
   float: right;
+  margin-top: 10px;
 }
 .replyBox {
   display: flex;
@@ -181,9 +183,11 @@
   height: 90px;
   background-color: #ebebeb;
 }
-.writeRefreply textarea {
+.wirteRefreplyArea {
+  width: 1118px;
   height: 40px;
   border: 2px solid #3a38b2;
+  background-color: white;
   border-radius: 5px;
   padding: 5px;
   margin-left: 45px;

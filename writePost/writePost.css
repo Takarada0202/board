@@ -82,7 +82,7 @@
   align-items: center;
   justify-content: center;
 }
-.post textarea {
+.mainContent {
   width: 1030px;
   height: 680px;
   border: 2px solid #7689cd;
